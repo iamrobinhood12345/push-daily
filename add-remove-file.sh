@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIRECTORY='/users/williamshields/push-every-day/push-daily'
+DIRECTORY='/'
 
 
 echo creating a file
